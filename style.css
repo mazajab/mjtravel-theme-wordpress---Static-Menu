@@ -9,3 +9,26 @@ Version: 1.0
 */
 
 
+
+@media screen and (max-width: 480px) {
+   
+.attachment-medium_large.size-medium_large.wp-post-image {
+    width: 100%;
+    height: auto;
+} 
+.blog-post{
+	text-align:justify !important;
+}
+footer .m-0.text-center.text-white,.form-control {
+    display: block;
+    margin: auto !important;
+	float:none !important;
+	margin-bottom:10px !important;
+}
+
+.nav-link{
+	color:white !important;
+}
+}
+
+
